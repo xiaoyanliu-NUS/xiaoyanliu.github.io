@@ -1,1 +1,2 @@
 # xiaoyanliu.github.io
+Dr Liu Xiaoyan obtained her bachelor's degree in chemistry from Shandong University in 2017 and her Ph.D. degree in Nanoscience&Technology from Peking University in 2022. Her Ph.D. supervisor was Professor Jiang Xingyu (now in Sustech) and Professor Zhang jin (Peking University). In 2022, she became a Research Fellow in National University of Singapore. She has published 22 papers. Her research interests include cell-based microfluidic chips and high-throughput drug screening.
